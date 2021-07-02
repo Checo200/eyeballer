@@ -8,3 +8,4 @@ sklearn
 tensorflow-gpu
 jinja2
 progressbar2
+tensorflow-gpu>=2.1.4 # not directly required, pinned by Snyk to avoid a vulnerability
